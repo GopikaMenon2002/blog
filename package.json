@@ -1,9 +1,9 @@
 {
-  "name": "gblog",
+  "name": "blog",
   "version": "1.0.0",
   "private": true,
   "description": "gblog",
-  "author": "Ram Gopinathan",
+  "author": "Gopika Menon",
   "keywords": [
     "gatsby"
   ],
